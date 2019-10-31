@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1571941034 source:c:\users\prisc\documents\ativ anselmo\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+	"alunos.h"
+
+1572299588 
+
+1571939410 source:c:\users\prisc\documents\ativ anselmo\teste\alunos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"alunos.h"
+	"funcoes.h"
+
+1572042630 "
+
+1571928027 c:\users\prisc\documents\ativ anselmo\teste\alunos.h
+
+1571940229 c:\users\prisc\documents\ativ anselmo\teste\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+
+1571941573 source:c:\users\prisc\documents\ativ anselmo\teste\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1571943788 source:c:\users\lwms\documents\claudiny\codigos\lista_sim_enc\teste\lista_simplesmente_encadeada-master\alunos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"alunos.h"
+	"funcoes.h"
+
+1571943788 c:\users\lwms\documents\claudiny\codigos\lista_sim_enc\teste\lista_simplesmente_encadeada-master\alunos.h
+
+1572042630 c:\users\lwms\documents\claudiny\codigos\lista_sim_enc\teste\lista_simplesmente_encadeada-master\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+
+1572042630 source:c:\users\lwms\documents\claudiny\codigos\lista_sim_enc\teste\lista_simplesmente_encadeada-master\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1572043609 source:c:\users\lwms\documents\claudiny\codigos\lista_sim_enc\teste\lista_simplesmente_encadeada-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+	"alunos.h"
+
+1572224508 source:/home/lwms/Projetcs/claudiny/C/2019/LS/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	<time.h>
+	<string.h>
+
+1572225016 /home/lwms/Projetcs/claudiny/C/2019/LS/funcoes.h
+
+1572228181 source:/home/lwms/Projetcs/claudiny/C/2019/LS/alunos.c
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"alunos.h"
+
+1572194643 /home/lwms/Projetcs/claudiny/C/2019/LS/alunos.h
+
+1572228189 source:/home/lwms/Projetcs/claudiny/C/2019/LS/sllist.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+	"sllist.h"
+
+1572228330 /home/lwms/Projetcs/claudiny/C/2019/LS/sllist.h
+	<stdio.h>
+	<stdlib.h>
+
+1572298956 source:f:\ls\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcoes.h"
+	"alunos.h"
+
+1572225016 f:\ls\funcoes.h
+
+1572295846 f:\ls\alunos.h
+
+1572224508 source:f:\ls\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	<time.h>
+	<string.h>
+
+1572298654 source:f:\ls\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"menu.h"
+
+1572301086 f:\ls\sllist.h
+
+1572285680 f:\ls\menu.h
+
+1572299588 source:f:\ls\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+	"sllist.h"
+	"alunos.h"
+	"menu.h"
+
+1572301070 source:f:\ls\sllist.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+	"sllist.h"
+
+1572224508 source:/media/lwms/LINUX LITE/LS/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	<time.h>
+	<string.h>
+
+1572225016 /media/lwms/LINUX LITE/LS/funcoes.h
+
+1572301186 source:/media/lwms/LINUX LITE/LS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+	"sllist.h"
+	"alunos.h"
+	"menu.h"
+
+1572285680 /media/lwms/LINUX LITE/LS/menu.h
+
+1572298654 source:/media/lwms/LINUX LITE/LS/menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"menu.h"
+
+1572487115 source:/home/lwms/Projetcs/LS/alunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"alunos.h"
+
+1572225016 /home/lwms/Projetcs/LS/funcoes.h
+
+1572295846 /home/lwms/Projetcs/LS/alunos.h
+
+1572486572 source:/home/lwms/Projetcs/LS/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	<time.h>
+	<string.h>
+
+1572519457 source:/home/lwms/Projetcs/LS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+	"sllist.h"
+	"alunos.h"
+	"menu.h"
+
+1572486653 /home/lwms/Projetcs/LS/sllist.h
+
+1572285680 /home/lwms/Projetcs/LS/menu.h
+
+1572298654 source:/home/lwms/Projetcs/LS/menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"menu.h"
+
+1572496424 source:/home/lwms/Projetcs/LS/sllist.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+	"sllist.h"
+
